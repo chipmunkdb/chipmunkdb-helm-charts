@@ -3,6 +3,16 @@ entries:
   chipmunkdb:
   - apiVersion: v2
     appVersion: "1.18"
+    created: "2024-03-17T16:01:37.243577321Z"
+    description: This creates a chipmunkdb inside of kubernetes.
+    digest: d467ca6dc6abb2c76ee5af9e97598be998f575c65f211f448dcad3dcfbdce7fc
+    name: chipmunkdb
+    type: application
+    urls:
+    - https://github.com/coindeck/chipmunkdb-helm-charts/releases/download/chipmunkdb-0.1.6/chipmunkdb-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: "1.18"
     created: "2024-03-17T15:41:23.29975383Z"
     description: This creates a chipmunkdb inside of kubernetes.
     digest: b00d922ff2358ec81348c62cd67aed29e0bf338b7ec56a4abdc767706814d72b
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://github.com/coindeck/chipmunkdb-helm-charts/releases/download/chipmunkdb-0.1.3/chipmunkdb-0.1.3.tgz
     version: 0.1.3
-generated: "2024-03-17T15:41:23.29976983Z"
+generated: "2024-03-17T16:01:37.243595445Z"
